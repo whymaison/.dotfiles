@@ -1,0 +1,17 @@
+anydesk-bin
+arm-linux-gnueabihf-gcc
+arm-none-linux-gnueabihf-toolchain-bin
+auto-cpufreq
+icu63
+onlyoffice-bin
+openssl-1.0
+pam-fprint-grosshack
+pulse-secure
+sddm-git
+tlpui
+unityhub
+yay
+yay-debug
+yt-x
+zoom
+zstr-git
