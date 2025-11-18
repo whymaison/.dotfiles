@@ -12,6 +12,8 @@ PS1='[\u@\h \W]\$ '
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 
+alias qemu='QEMU_LD_PREFIX=/usr/arm-linux-gnueabihf qemu-arm-static'
+
 function y() {
 	local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
 	yazi "$@" --cwd-file="$tmp"
@@ -29,6 +31,8 @@ function list() {
 	echo "ssh to mwnServer:   ssh mwnserver"
 	echo "scp to mwnServer:   scp /source mwnserver:/destination"
 	echo "System Upgrade:     sudo pacman -Syu"
-	echo "Disk Usage:         ncdu"
+	echo "Disk Usage:         sudo ncdu"
+	echo "ssh to CS Lab:      ssh mwn0005@vbh-oit-raspberrypi-5"
+	echo "scp to CS Lab:      scp Documents/code/... mwn0005@vbh-oit-raspberrypi-5:/home/mwn0005/Labs/..."
 	echo ""
 }
