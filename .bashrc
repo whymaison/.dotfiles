@@ -22,6 +22,10 @@ function y() {
 	rm -f -- "$tmp"
 }
 
+function ff() {
+	fastfetch
+}
+
 function list() {
 	echo ""
 	echo "Command List:"
