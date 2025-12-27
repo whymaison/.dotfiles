@@ -36,6 +36,7 @@ function list() {
 	echo "scp to mwnServer:   scp /source mwnserver:/destination"
 	echo "System Upgrade:     sudo pacman -Syu"
 	echo "Disk Usage:         sudo ncdu"
+	echo ""
 	echo "ssh to CS Lab:      ssh mwn0005@vbh-oit-raspberrypi-5"
 	echo "scp to CS Lab:      scp Documents/code/... mwn0005@vbh-oit-raspberrypi-5:/home/mwn0005/Labs/..."
 	echo ""
