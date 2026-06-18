@@ -1,0 +1,24 @@
+[6608f7bb-cbc0-41bf-9b90-9cb965df5609]
+Description=Application settings for org.kde.kdeconnect.app
+minimize=true
+minimizerule=3
+wmclass=kdeconnect-app org.kde.kdeconnect.app
+wmclasscomplete=true
+wmclassmatch=1
+
+[6e69b8d1-b309-4ec0-a229-87c496d26a72]
+types=1
+
+[9c65ff35-ad40-4877-8745-808f95a00ed7]
+Description=Window settings for firefox
+above=true
+aboverule=3
+title=Picture-in-Picture
+titlematch=1
+types=1
+wmclass=firefox
+wmclassmatch=1
+
+[General]
+count=2
+rules=6608f7bb-cbc0-41bf-9b90-9cb965df5609,9c65ff35-ad40-4877-8745-808f95a00ed7
