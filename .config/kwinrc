@@ -11,7 +11,11 @@ Rows=1
 BlurStrength=8
 
 [Plugins]
+klearEnabled=false
 shakecursorEnabled=false
+
+[Script-klear]
+userSetOpacity=90
 
 [Tiling][00c3f6b5-2aca-4808-8c64-af6702723654][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -31,7 +35,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 padding=4
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.7166666666666667},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.2833333333333333}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.6890625},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.3109375}]}
 
 [Tiling][380f1971-3aee-4d59-8236-563c86e06f79][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -131,5 +135,3 @@ Scale=1
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=MFS
-library=org.kde.breeze
-theme=Breeze
