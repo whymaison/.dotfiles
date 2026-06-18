@@ -8,11 +8,14 @@ Number=2
 Rows=1
 
 [Effect-blur]
-BlurStrength=8
+BlurStrength=6
+NoiseStrength=4
 
 [Plugins]
+blurEnabled=true
 klearEnabled=false
 shakecursorEnabled=false
+wobblywindowsEnabled=true
 
 [Script-klear]
 userSetOpacity=90

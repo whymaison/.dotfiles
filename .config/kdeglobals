@@ -91,6 +91,7 @@ ForegroundPositive=163,190,140
 ForegroundVisited=143,188,187
 
 [General]
+ColorScheme=NordicDarker
 ColorSchemeHash=d05680ca25bbbbf09a8b5f36923ee7f2b1117fbf
 TerminalApplication=kitty
 TerminalService=kitty.desktop
@@ -105,6 +106,7 @@ smallestReadableFont=Noto Sans,8,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 toolBarFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [KDE]
+AnimationDurationFactor=0.7071067811865475
 LookAndFeelPackage=transparent nordic with breeze stuff
 contrast=4
 frameContrast=0.2
