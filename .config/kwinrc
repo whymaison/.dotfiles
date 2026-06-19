@@ -14,6 +14,7 @@ NoiseStrength=4
 [Plugins]
 blurEnabled=true
 klearEnabled=false
+kzonesEnabled=true
 shakecursorEnabled=false
 
 [Script-klear]
@@ -41,7 +42,7 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.715625},{"layoutDirect
 
 [Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][d3066b68-3a0d-486c-876f-20b31d0b291f]
 padding=4
-tiles={"layoutDirection":"horizontal","tiles":[{"width":0.7492732558139599},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.25072674418604013}]}
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.7478197674418605},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.2521802325581395}]}
 
 [Tiling][380f1971-3aee-4d59-8236-563c86e06f79][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
