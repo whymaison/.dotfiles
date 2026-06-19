@@ -4,13 +4,10 @@ RightButton;NoModifier=org.kde.contextmenu
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-1720x1440=
-ItemGeometries-1920x1200=
-ItemGeometries-2560x1440=
-ItemGeometries-3440x1440=
+[Containments][109]
+ItemGeometries-2752x1152=
 ItemGeometriesHorizontal=
-activityId=11fdbccc-a7e4-4ea5-aa97-38929298ab9b
+activityId=a56e67d8-6154-4423-a4fc-887e217b8a6f
 formfactor=0
 immutability=1
 lastScreen=0
@@ -18,23 +15,9 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
-[Containments][1][ConfigDialog]
-DialogHeight=743
-DialogWidth=1087
-
-[Containments][1][General]
-changedPositions={}
-lastResolution=1920x1200
-positions={"1920x1200":["1","17"]}
-sortMode=-1
-
-[Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/mwn319/Pictures/Wallpapers/ROR2SotSTrailer_SC05_11.jpg
-SlidePaths=/usr/share/wallpapers/
-
-[Containments][1][Wallpaper][org.kde.potd][General]
-FillMode=2
-UpdateOverMeteredConnection=1
+[Containments][109][Wallpaper][org.kde.image][General]
+Image=file:///home/mwn319/Pictures/Wallpapers/ROR2DLC_cover_INSIDE_FINAL_01.jpg
+SlidePaths=/home/mwn319/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][2]
 activityId=
@@ -219,29 +202,15 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][7][General]
-extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.plasma.wacomtablet
+disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1
+extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.weather,org.kde.plasma.networkmanagement
 hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update
 iconSpacing=1
-knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.printmanager,org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect
+knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect
 shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.bluetooth
 
 [Containments][2][General]
 AppletOrder=3;4;26;6;7;20;21
-
-[Containments][30]
-activityId=11fdbccc-a7e4-4ea5-aa97-38929298ab9b
-formfactor=0
-immutability=1
-lastScreen=1
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][30][General]
-positions={"2048x1280":[],"2560x1440":[]}
-
-[Containments][30][Wallpaper][org.kde.image][General]
-Image=/home/mwn319/Downloads/ROR2_cover_INSIDE_02_full.jpg
 
 [ScreenMapping]
 itemsOnDisabledScreens=

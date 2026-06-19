@@ -66,7 +66,7 @@ https://crowdin.com/project/decky-steamgriddb
 | **Русский** | fycher, LostHikking |
 | **Українська** | Veydzher, Kefir |
 | **한국어** | yor42, sua (sua_owo) |
-| **日本語** | Nes |
+| **日本語** | Nes, Hogman |
 | **正體中文** | mingyc |
 | **简体中文** | zhzy0077, XHXIAIEIN, simon3000 |
 

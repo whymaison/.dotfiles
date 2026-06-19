@@ -15,7 +15,6 @@ NoiseStrength=4
 blurEnabled=true
 klearEnabled=false
 shakecursorEnabled=false
-wobblywindowsEnabled=true
 
 [Script-klear]
 userSetOpacity=90
@@ -39,6 +38,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.715625},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.28437500000000004}]}
+
+[Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][d3066b68-3a0d-486c-876f-20b31d0b291f]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.7492732558139599},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.25072674418604013}]}
 
 [Tiling][380f1971-3aee-4d59-8236-563c86e06f79][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -112,6 +115,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.7005208333333334},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.29947916666666663}]}
 
+[Tiling][d6106446-c762-4695-a232-a819746da853][d3066b68-3a0d-486c-876f-20b31d0b291f]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][deacacfb-f242-4541-bab7-d8b961c5ed1f][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
@@ -134,7 +141,7 @@ MaxLuminance=330
 Reference=290
 
 [Xwayland]
-Scale=1
+Scale=1.25
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=MFS
