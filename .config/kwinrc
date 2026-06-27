@@ -32,6 +32,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][29a83509-5a22-46ce-a8df-83272b4b6934][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][333ae1b8-d355-49cc-8c50-3c0553137f94][167bd2b0-1d54-4b59-894a-4a0e4db96dc2]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -108,6 +112,10 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.6401041666666681},{"la
 [Tiling][d2d39f0b-3b3e-455b-afd6-bbf695bc0476][666d67ce-b5fb-4ac5-9c46-c7575ab00e1a]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][d6106446-c762-4695-a232-a819746da853][]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][d6106446-c762-4695-a232-a819746da853][167bd2b0-1d54-4b59-894a-4a0e4db96dc2]
 padding=4
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -143,6 +151,7 @@ Reference=290
 
 [Xwayland]
 Scale=1.25
+XwaylandEisNoPromptApps=steam
 
 [org.kde.kdecoration2]
 ButtonsOnLeft=MFS

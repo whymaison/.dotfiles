@@ -202,9 +202,9 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][7][General]
-disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1
+disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1,tray-icon tray app 344790-1,tray-icon tray app 1331613-1
 extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.weather,org.kde.plasma.networkmanagement
-hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update
+hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update,tray-icon tray app 339224-1,tray-icon tray app 2009-1,tray-icon tray app 2121-1
 iconSpacing=1
 knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect
 shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.bluetooth
