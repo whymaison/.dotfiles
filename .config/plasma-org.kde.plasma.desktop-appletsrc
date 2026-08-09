@@ -16,7 +16,7 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
 [Containments][109][Wallpaper][org.kde.image][General]
-Image=file:///home/mwn319/Pictures/Wallpapers/ROR2DLC_cover_INSIDE_FINAL_01.jpg
+Image=/home/mwn319/Pictures/Wallpapers/2.jpg
 SlidePaths=/home/mwn319/.local/share/wallpapers/,/usr/share/wallpapers/
 
 [Containments][2]
@@ -59,7 +59,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][26][Configuration][General]
-launchers=applications:kitty.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:firefox.desktop,applications:steam.desktop,applications:obsidian.desktop,applications:discord.desktop,applications:org.prismlauncher.PrismLauncher.desktop
+launchers=applications:kitty.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:firefox.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:discord.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:citron.desktop
 
 [Containments][2][Applets][3]
 immutability=1
@@ -110,6 +110,10 @@ migrated=true
 [Containments][2][Applets][7][Applets][11]
 immutability=1
 plugin=org.kde.plasma.printmanager
+
+[Containments][2][Applets][7][Applets][110]
+immutability=1
+plugin=org.kde.plasma.diskquota
 
 [Containments][2][Applets][7][Applets][12]
 immutability=1
@@ -203,8 +207,8 @@ DialogWidth=720
 
 [Containments][2][Applets][7][General]
 disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1,tray-icon tray app 344790-1,tray-icon tray app 1331613-1
-extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.kdeconnect,org.kde.plasma.weather,org.kde.plasma.networkmanagement
-hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update,tray-icon tray app 339224-1,tray-icon tray app 2009-1,tray-icon tray app 2121-1
+extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.diskquota
+hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update,tray-icon tray app 339224-1,tray-icon tray app 2009-1,tray-icon tray app 2121-1,tray-icon tray app 2196-1,plasmashell_microphone
 iconSpacing=1
 knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect
 shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.bluetooth

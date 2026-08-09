@@ -41,3 +41,5 @@ function list() {
 	echo "scp to CS Lab:      scp Documents/code/... mwn0005@vbh-oit-raspberrypi-5:/home/mwn0005/Labs/..."
 	echo ""
 }
+
+. "$HOME/.local/bin/env"
