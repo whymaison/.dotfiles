@@ -15,6 +15,12 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][109][General]
+changedPositions={"desktop:/pasted file.txt":["2752x1152","3","22"]}
+lastResolution=2752x1152
+positions={"2752x1152":["1","25","desktop:/pasted file.txt","3","22"]}
+sortMode=-1
+
 [Containments][109][Wallpaper][org.kde.image][General]
 Image=/home/mwn319/Pictures/Wallpapers/2.jpg
 SlidePaths=/home/mwn319/.local/share/wallpapers/,/usr/share/wallpapers/
@@ -59,7 +65,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][26][Configuration][General]
-launchers=applications:kitty.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:firefox.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:discord.desktop,applications:org.prismlauncher.PrismLauncher.desktop,applications:citron.desktop
+launchers=applications:kitty.desktop,applications:systemsettings.desktop,preferred://filemanager,applications:firefox.desktop,applications:obsidian.desktop,applications:steam.desktop,applications:discord.desktop,applications:org.prismlauncher.PrismLauncher.desktop
 
 [Containments][2][Applets][3]
 immutability=1
@@ -150,13 +156,6 @@ plugin=org.kde.kscreen
 [Containments][2][Applets][7][Applets][22][Configuration]
 PreloadWeight=42
 
-[Containments][2][Applets][7][Applets][23]
-immutability=1
-plugin=org.kde.plasma.battery
-
-[Containments][2][Applets][7][Applets][23][Configuration][General]
-showPercentage=true
-
 [Containments][2][Applets][7][Applets][24]
 immutability=1
 plugin=org.kde.plasma.brightness
@@ -206,12 +205,13 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][7][General]
-disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1,tray-icon tray app 344790-1,tray-icon tray app 1331613-1
-extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.diskquota
+disabledStatusNotifiers=tray-id,tray-icon tray app 2183-1,tray-icon tray app 344790-1,tray-icon tray app 1331613-1,tray-icon tray app 2990159-1,tray-icon tray app 3673875-1
+extraItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.clipboard,org.kde.plasma.weather,org.kde.plasma.networkmanagement,org.kde.kdeconnect,org.kde.plasma.diskquota,org.kde.plasma.printmanager
 hiddenItems=org.kde.plasma.clipboard,org.kde.plasma.weather,librepods,tray-icon tray app,Arch-Update,tray-icon tray app 339224-1,tray-icon tray app 2009-1,tray-icon tray app 2121-1,tray-icon tray app 2196-1,plasmashell_microphone
 iconSpacing=1
-knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect
-shownItems=org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.bluetooth
+knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.bluetooth,org.kde.plasma.brightness,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.cameraindicator,org.kde.kscreen,org.kde.plasma.weather,org.kde.kdeconnect,org.kde.plasma.printmanager
+reverseIconOrder=true
+shownItems=org.kde.plasma.volume,org.kde.plasma.brightness,org.kde.plasma.bluetooth
 
 [Containments][2][General]
 AppletOrder=3;4;26;6;7;20;21
