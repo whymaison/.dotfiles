@@ -62,7 +62,7 @@ if ! command -v yay &>/dev/null; then
 fi
 
 echo "==> Installing packages"
-[ -f "$PACMAN_LIST" ] && sudo pacman -S --needed --noconfirm - < "$PACMAN_LIST"
+[ -f "$PACMAN_LIST" ] && cat "$PACMAN_LIST" | sudo pacman -S --needed --noconfirm -
 [ -f "$AUR_LIST" ] && yay -S --needed --noconfirm - < "$AUR_LIST"
 
 echo "==> Applying Firefox user.js"
