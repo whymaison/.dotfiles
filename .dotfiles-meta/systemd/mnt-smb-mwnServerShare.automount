@@ -1,0 +1,9 @@
+[Unit]
+Description=mwnServer Automount
+
+[Automount]
+Where=/mnt/smb/mwnServerShare
+TimeoutIdleSec=0
+
+[Install]
+WantedBy=multi-user.target

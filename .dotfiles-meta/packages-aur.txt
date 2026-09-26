@@ -1,0 +1,8 @@
+coolercontrol-bin
+it87-dkms-git
+lib32-gtk2
+rustdesk-bin
+steamos-add-to-steam
+wayvr
+wivrn-dashboard
+xrizer

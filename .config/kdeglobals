@@ -106,7 +106,7 @@ toolBarFont=Noto Sans,10,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 
 [KDE]
 AnimationDurationFactor=0.7071067811865475
-LookAndFeelPackage=transparent nordic with breeze stuff
+LookAndFeelPackage=Transparent Nordic with Breeze stuff
 contrast=4
 frameContrast=0.2
 

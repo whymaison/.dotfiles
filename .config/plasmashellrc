@@ -1,11 +1,15 @@
-[PlasmaViews][Panel 2]
+[PlasmaViews][Panel 163]
+alignment=132
 floating=1
 panelLengthMode=0
 panelOpacity=2
 panelVisibility=0
 shell=org.kde.plasma.desktop
 
-[PlasmaViews][Panel 2][Defaults]
+[PlasmaViews][Panel 163][Defaults]
+maxLength=2752
+minLength=2752
+offset=0
 thickness=40
 
 [Updates]

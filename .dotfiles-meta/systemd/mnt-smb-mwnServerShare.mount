@@ -1,0 +1,16 @@
+[Unit]
+Description=mwnServer Mount
+Requires=systemd-networkd.service
+After=network-online.target
+Wants=network-online.target
+
+[Mount]
+What=//100.117.144.44/mwnServer
+Where=/mnt/smb/mwnServerShare
+Options=vers=2.1,credentials=/etc/samba/smbcreds,iocharset=utf8,rw,x-systemd.automount,uid=1000
+Type=cifs
+TimeoutSec=30
+
+
+[Install]
+WantedBy=multi-user.target
