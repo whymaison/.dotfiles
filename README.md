@@ -2,7 +2,7 @@ These are backups of my configs and other dotfiles.
 
 # One line installer for packages, themes, configs, and some setup.
 ```
-bash <(curl -sL https://raw.githubusercontent.com/yourname/dotfiles/main/bootstrap.sh)
+bash <(curl -sL https://raw.githubusercontent.com/whymaison/.dotfiles/refs/heads/master/.dotfiles-meta/bootstrap.sh)
 ```
 
 Use the command below to clone these files into a temporary directory:
