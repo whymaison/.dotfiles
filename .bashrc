@@ -42,4 +42,4 @@ function list() {
 	echo ""
 }
 
-. "$HOME/.local/bin/env"
+# . "$HOME/.local/bin/env"
