@@ -17,7 +17,6 @@ desktopchangeosdEnabled=false
 klearEnabled=false
 kzonesEnabled=true
 rememberwindowpositionsEnabled=true
-shakecursorEnabled=false
 
 [Script-klear]
 userSetOpacity=90
