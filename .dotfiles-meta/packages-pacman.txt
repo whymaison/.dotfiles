@@ -1,4 +1,5 @@
 accountsservice
+alacritty
 alsa-firmware
 alsa-plugins
 alsa-utils
@@ -31,6 +32,7 @@ cachyos-keyring
 cachyos-micro-settings
 cachyos-mirrorlist
 cachyos-nord-kde-theme-git
+cachyos-packageinstaller
 cachyos-plymouth-bootanimation
 cachyos-rate-mirrors
 cachyos-settings
@@ -73,7 +75,9 @@ flatpak
 fsarchiver
 fwupd
 gamemode
+gamescope-session-cachyos
 git
+git-filter-repo
 github-cli
 glances
 gst-libav
@@ -117,9 +121,6 @@ libopenraw
 libplasma
 libva-utils
 libwnck3
-limine
-limine-mkinitcpio-hook
-limine-snapper-sync
 linux-cachyos
 linux-cachyos-headers
 linux-cachyos-lts
@@ -180,6 +181,7 @@ plasma-systemmonitor
 plasma-thunderbolt
 plasma-workspace
 plasma-x11-session
+plasma6-wallpapers-wallpaper-engine-git
 plocate
 plymouth
 plymouth-kcm
@@ -193,6 +195,7 @@ pv
 python
 python-colorama
 python-defusedxml
+python-mcp
 python-packaging
 python-pip
 qbittorrent
