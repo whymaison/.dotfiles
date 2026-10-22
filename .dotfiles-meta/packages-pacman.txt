@@ -180,7 +180,6 @@ plasma-pa
 plasma-systemmonitor
 plasma-thunderbolt
 plasma-workspace
-plasma-x11-session
 plasma6-wallpapers-wallpaper-engine-git
 plocate
 plymouth
